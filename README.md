@@ -9,7 +9,7 @@ O sistema deverá ser possível gerenciar informações sobre os livros que já 
 
 ## `Como foi criado o projeto` 
 
-Com so comandos informações abaixo :) 
+Comandos e informações abaixo :) 
 
 Inicie o projeto node com o `npm init -y`
 com o meu amigo *package.json*, criei o script start - `"start": "node app.js"`.
