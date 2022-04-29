@@ -1,0 +1,23 @@
+{
+  "name": "reprograma-projeto1",
+  "version": "1.0.0",
+  "description": "Contém projeto integrado da semana 5 da reprograma. è um sistema que regência livros.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idbabis/reprograma-projeto1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idbabis/reprograma-projeto1/issues"
+  },
+  "homepage": "https://github.com/idbabis/reprograma-projeto1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
